@@ -1,0 +1,272 @@
+[
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Домодедово",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "21.04.19 - 21.04.19",
+      "departureTime": "06:45",
+      "arrivalTime": "08:35"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 606",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Домодедово",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "10.04.19 - 10.04.19",
+      "departureTime": "06:45",
+      "arrivalTime": "08:35"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 606",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Домодедово",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "06.04.19 - 06.04.19",
+      "departureTime": "06:25",
+      "arrivalTime": "08:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 606",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Домодедово",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "16.04.19 - 16.04.19",
+      "departureTime": "06:25",
+      "arrivalTime": "08:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 606",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Домодедово",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "13.04.19 - 13.04.19",
+      "departureTime": "06:25",
+      "arrivalTime": "08:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 606",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Домодедово",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "30.04.19 - 30.04.19",
+      "departureTime": "15:35",
+      "arrivalTime": "17:35"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "S7 Airlines",
+    "FlightNum": "S7 893",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Шереметьево",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "15.04.19 - 15.04.19",
+      "departureTime": "09:05",
+      "arrivalTime": "11:00"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Aeroflot",
+    "FlightNum": "SU 2184",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Шереметьево",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "30.04.19 - 30.04.19",
+      "departureTime": "09:05",
+      "arrivalTime": "11:00"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Aeroflot",
+    "FlightNum": "SU 2184",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Шереметьево",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "24.04.19 - 24.04.19",
+      "departureTime": "09:05",
+      "arrivalTime": "11:00"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Aeroflot",
+    "FlightNum": "SU 2184",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Шереметьево",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "26.04.19 - 26.04.19",
+      "departureTime": "09:10",
+      "arrivalTime": "11:00"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Aeroflot",
+    "FlightNum": "SU 2184",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Шереметьево",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "07.04.19 - 07.04.19",
+      "departureTime": "12:00",
+      "arrivalTime": "13:55"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Aeroflot",
+    "FlightNum": "SU 2356",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Внуково",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "28.04.19 - 28.04.19",
+      "departureTime": "10:35",
+      "arrivalTime": "12:30"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "UTair Aviation",
+    "FlightNum": "UT 821",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Внуково",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "13.04.19 - 13.04.19",
+      "departureTime": "10:35",
+      "arrivalTime": "12:30"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "UTair Aviation",
+    "FlightNum": "UT 821",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Внуково",
+    "ArrivalAirport": "Vienna",
+    "Date": {
+      "date": "30.04.19 - 30.04.19",
+      "departureTime": "10:35",
+      "arrivalTime": "12:30"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "UTair Aviation",
+    "FlightNum": "UT 821",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Vienna",
+    "ArrivalAirport": "Домодедово",
+    "Date": {
+      "date": "27.04.19 - 27.04.19",
+      "departureTime": "21:15",
+      "arrivalTime": "01:00 (+1)"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 605",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Vienna",
+    "ArrivalAirport": "Домодедово",
+    "Date": {
+      "date": "24.04.19 - 24.04.19",
+      "departureTime": "20:50",
+      "arrivalTime": "00:35 (+1)"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 605",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Vienna",
+    "ArrivalAirport": "Домодедово",
+    "Date": {
+      "date": "20.04.19 - 20.04.19",
+      "departureTime": "20:50",
+      "arrivalTime": "00:35 (+1)"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Austrian Airlines",
+    "FlightNum": "OS 605",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  },
+  {
+    "TourOperator": "ICS Travel Group",
+    "DepartureAirport": "Vienna",
+    "ArrivalAirport": "Внуково",
+    "Date": {
+      "date": "16.04.19 - 16.04.19",
+      "departureTime": "13:30",
+      "arrivalTime": "17:10"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "UTair Aviation",
+    "FlightNum": "UT 822",
+    "TypeOfPlane": null,
+    "NumOfASeats": 0
+  }
+]
