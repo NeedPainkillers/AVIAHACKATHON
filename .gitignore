@@ -1,0 +1,5 @@
+
+*.lock
+.vs/Hackaton/v15/Server/sqlite3/storage.ide-shm
+.vs/Hackaton/v15/Server/sqlite3/storage.ide-wal
+.vs/Hackaton/v15/Server/sqlite3/storage.ide
