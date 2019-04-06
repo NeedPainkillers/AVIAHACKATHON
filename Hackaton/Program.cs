@@ -13,7 +13,8 @@ namespace Parser
     {
         static void Main(string[] args)
         {
-            CParser.ReadPegasus("Россия", "Азербайджан", DateTime.Now, DateTime.Now, "Москва", "Баку");
+            //Азербайджан Баку
+            CParser.ParsePegasus("Россия", "Турция", DateTime.Now, DateTime.Now.AddMonths(1), "", "Анталья");
         }
     }
 }

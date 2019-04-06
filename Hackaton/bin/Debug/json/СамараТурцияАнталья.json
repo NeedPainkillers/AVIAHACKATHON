@@ -1,0 +1,444 @@
+[
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "16.04.2019 Вт",
+      "departureTime": "10:15",
+      "arrivalTime": "12:45"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "20.04.2019 Сб",
+      "departureTime": "03:35",
+      "arrivalTime": "06:05"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "24.04.2019 Ср",
+      "departureTime": "04:20",
+      "arrivalTime": "06:50"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "26.04.2019 Пт",
+      "departureTime": "04:30",
+      "arrivalTime": "07:00"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "27.04.2019 Сб",
+      "departureTime": "03:35",
+      "arrivalTime": "06:05"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Boeing 737-800",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "28.04.2019 Вс",
+      "departureTime": "14:00",
+      "arrivalTime": "16:40"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "29.04.2019 Пн",
+      "departureTime": "01:15",
+      "arrivalTime": "03:45"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 5871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "30.04.2019 Вт",
+      "departureTime": "14:10",
+      "arrivalTime": "16:40"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "01.05.2019 Ср",
+      "departureTime": "04:05",
+      "arrivalTime": "06:35"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "03.05.2019 Пт",
+      "departureTime": "04:05",
+      "arrivalTime": "06:35"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "04.05.2019 Сб",
+      "departureTime": "04:05",
+      "arrivalTime": "06:35"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "05.05.2019 Вс",
+      "departureTime": "04:05",
+      "arrivalTime": "06:35"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "KUF",
+    "ArrivalAirport": "AYT 2",
+    "Date": {
+      "date": "06.05.2019 Пн",
+      "departureTime": "02:00",
+      "arrivalTime": "05:00"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1871",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "19.04.2019 Пт",
+      "departureTime": "16:15",
+      "arrivalTime": "20:45"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "22.04.2019 Пн",
+      "departureTime": "18:00",
+      "arrivalTime": "22:30"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "24.04.2019 Ср",
+      "departureTime": "21:00",
+      "arrivalTime": "+ 1 01:20"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 5872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "26.04.2019 Пт",
+      "departureTime": "06:00",
+      "arrivalTime": "10:30"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Boeing 737-800",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "28.04.2019 Вс",
+      "departureTime": "18:00",
+      "arrivalTime": "22:30"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "29.04.2019 Пн",
+      "departureTime": "06:10",
+      "arrivalTime": "10:40"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "30.04.2019 Вт",
+      "departureTime": "17:40",
+      "arrivalTime": "21:10"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "01.05.2019 Ср",
+      "departureTime": "07:45",
+      "arrivalTime": "12:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "01.05.2019 Ср",
+      "departureTime": "16:15",
+      "arrivalTime": "20:45"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 7872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "03.05.2019 Пт",
+      "departureTime": "07:45",
+      "arrivalTime": "12:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "04.05.2019 Сб",
+      "departureTime": "07:45",
+      "arrivalTime": "12:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "05.05.2019 Вс",
+      "departureTime": "07:45",
+      "arrivalTime": "12:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  },
+  {
+    "TourOperator": "Pegas Touristik",
+    "City": "Самара",
+    "DestinationCity": "Анталья",
+    "DepartureAirport": "AYT 2",
+    "ArrivalAirport": "KUF",
+    "Date": {
+      "date": "06.05.2019 Пн",
+      "departureTime": "07:45",
+      "arrivalTime": "12:15"
+    },
+    "TypeOfFlight": null,
+    "FlightCompany": "Северный Ветер",
+    "FlightNum": "N4 1872",
+    "TypeOfPlane": "Airbus 321-200",
+    "NumOfSeats": 0
+  }
+]
