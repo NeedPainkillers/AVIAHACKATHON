@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using System.Threading;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using Newtonsoft.Json;
@@ -35,7 +36,7 @@ namespace Parser
     }
     class CParser
     {
-        public static void Read()
+        public static void ReadICS()
         {
             ChromeDr chromeDr = ChromeDr.getInstance();
             chromeDr.ChDr.Navigate().GoToUrl("https://www.icstrvl.ru/flights/index.html");
@@ -87,7 +88,76 @@ namespace Parser
             }
             chromeDr.Close();
         }
+        private static IWebElement findSelector(string name, string toFind)
+        {
+            List<IWebElement> options = ChromeDr.getInstance().ChDr.FindElements(By.Name(name))[0].FindElements(By.TagName("option")).ToList();
+            if (!options.Any())
+            {
+                return null;
+            }
+            return options.Find(x => x.Text == toFind);
+        }
+        public static int ReadPegasus(string deparCountry, string arrCountry, DateTime startDate, DateTime endDate, string dCity, string aCity)
+        {
+            if(deparCountry.Length == 0 || arrCountry.Length == 0)
+            {
+                return 2;
+            }
 
+            ChromeDr chromeDr = ChromeDr.getInstance();
+            chromeDr.ChDr.Navigate().GoToUrl("https://pegast.ru/agency/pegasys/flights");
+
+            //List<IWebElement> openCountryButton = chromeDr.ChDr.FindElements(By.ClassName("country_button")).ToList();
+            //if(!openCountryButton.Any())
+            //{
+            //    return 1;
+            //}
+            //openCountryButton[0].Click();
+
+            // List<IWebElement> countries = chromeDr.ChDr.FindElements(By.ClassName("pgs-country-menu__item")).ToList();
+            //var countryButton = countries.Find(x => x.Text.Equals(deparCountry));
+            //countryButton.FindElements(By.ClassName)
+            // y.FindElements country-menu__sub-menu__item
+            
+            IWebElement option = findSelector("departureCity", dCity);
+            if(option == null)
+            {
+                return 3;
+            }
+            option.Click();
+            Thread.Sleep(2500);
+
+            option = findSelector("destinationCountry", arrCountry);
+            if (option == null)
+            {
+                return 4;
+            }
+            option.Click();
+            Thread.Sleep(1000);
+
+            if (aCity.Length > 0)
+            {
+                option = findSelector("destinationCity", aCity);
+                if (option == null)
+                {
+                    return 5;
+                }
+                option.Click();
+            }
+            Thread.Sleep(1000);
+
+            string fstartDate = startDate.ToString("dd.MM.yyyy");
+            string fendDate = endDate.ToString("dd.MM.yyyy");
+
+            chromeDr.ChDr.FindElement(By.Name("departureDateFrom")).SendKeys(fstartDate);
+            chromeDr.ChDr.FindElement(By.Name("departureDateTo")).SendKeys(fendDate);
+            chromeDr.ChDr.FindElement(By.Name("returnDateFrom")).SendKeys(fstartDate);
+            chromeDr.ChDr.FindElement(By.Name("returnDateTo")).SendKeys(fendDate);
+            //main-button
+            chromeDr.ChDr.FindElementByClassName("main-button").Click();
+
+            return 0;
+        }
 
         public static void Write(List<TourInfo> data, string filename)
         { 
