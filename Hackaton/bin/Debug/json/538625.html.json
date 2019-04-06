@@ -1,6 +1,7 @@
 [
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Домодедово",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -16,6 +17,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Домодедово",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -31,6 +33,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Домодедово",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -46,6 +49,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Домодедово",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -61,6 +65,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Домодедово",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -76,6 +81,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Домодедово",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -91,6 +97,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Шереметьево",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -106,6 +113,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Шереметьево",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -121,6 +129,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Шереметьево",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -136,6 +145,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Шереметьево",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -151,6 +161,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Шереметьево",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -166,6 +177,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Внуково",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -181,6 +193,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Внуково",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -196,6 +209,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "МОСКВА - Вена",
     "DepartureAirport": "Внуково",
     "ArrivalAirport": "Vienna",
     "Date": {
@@ -211,6 +225,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "Вена - МОСКВА",
     "DepartureAirport": "Vienna",
     "ArrivalAirport": "Домодедово",
     "Date": {
@@ -226,6 +241,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "Вена - МОСКВА",
     "DepartureAirport": "Vienna",
     "ArrivalAirport": "Домодедово",
     "Date": {
@@ -241,6 +257,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "Вена - МОСКВА",
     "DepartureAirport": "Vienna",
     "ArrivalAirport": "Домодедово",
     "Date": {
@@ -256,6 +273,7 @@
   },
   {
     "TourOperator": "ICS Travel Group",
+    "City": "Вена - МОСКВА",
     "DepartureAirport": "Vienna",
     "ArrivalAirport": "Внуково",
     "Date": {

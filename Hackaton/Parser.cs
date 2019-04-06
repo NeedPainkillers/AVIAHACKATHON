@@ -20,6 +20,7 @@ namespace Parser
     {
         // class for storing parsed data
         public string TourOperator;
+        public string City;
         public string DepartureAirport;
         public string ArrivalAirport;
         public CDate Date;
@@ -46,7 +47,7 @@ namespace Parser
                                         &&
                                         hr.GetAttribute("href").Length > 7
                                  let formated = hr.GetAttribute("href").Substring(5)
-                                 select formated/*.Remove(formated.Length - 2)*/).ToList();
+                                 select formated/*.Remove(formated.Length - 2)*/).Take(1).ToList();
 
             List<Task> tasks = new List<Task>();
             foreach (string item in href)
@@ -59,13 +60,15 @@ namespace Parser
                 }
 
                 string Operator = "ICS Travel Group";
+
                 List<TourInfo> data = (from table in tables
                                        from row in table.FindElements(By.TagName("tr"))
-                                       let column = row.FindElements(By.TagName("td")).ToList()
-                                       where column.Any() && column.Count > 9
+                                       let column = row.FindElements(By.TagName("td"))
+                                       where column.Any() && column.Count() > 9
                                        select new TourInfo()
                                        {
                                            TourOperator = Operator,
+                                           City = column[1].Text,
                                            Date = new CDate()
                                            {
                                                date = column[2].Text,
@@ -79,37 +82,15 @@ namespace Parser
 
                                        }).ToList();
                 string filename = item.Split('/').Last() + ".json";
-                //File.WriteAllText(filename, JsonConvert.SerializeObject(data, Formatting.Indented));
-
-                tasks.Add(new Task(() => Write(data, filename)));
+                Directory.CreateDirectory(Environment.CurrentDirectory + "\\json");
+                File.WriteAllText(Environment.CurrentDirectory + "\\json\\" + filename, JsonConvert.SerializeObject(data, Formatting.Indented));
             }
             chromeDr.Close();
         }
 
+
         public static void Write(List<TourInfo> data, string filename)
-        {
-            //string Operator = "ICS Travel Group";
-
-            //List<TourInfo> data = (from table in tables
-            //         from row in table.FindElements(By.TagName("tr"))
-            //         let column = row.FindElements(By.TagName("td"))
-            //         select new TourInfo()
-            //         {
-            //             TourOperator = Operator,
-            //             Date = new CDate()
-            //             {
-            //                 date = column[2].Text,
-            //                 departureTime = column[6].Text,
-            //                 arrivalTime = column[7].Text
-            //             },
-            //             FlightNum = column[3].Text,
-            //             FlightCompany = column[4].Text,
-            //             DepartureAirport = column[8].Text,
-            //             ArrivalAirport = column[9].Text
-
-            //         }    
-            //         ).ToList();
-
+        { 
             File.WriteAllText(filename, JsonConvert.SerializeObject(data, Formatting.Indented));
         }
     }
